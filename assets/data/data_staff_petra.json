@@ -1,0 +1,267 @@
+{
+	"staff":[
+		{
+			"group":"staff",
+			"nama":"Justinus Andjarwirawan, S.T.,M.Eng.",
+			"jabatan":"Kepala",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Mery, SE.",
+			"jabatan":"Kasubbag Tata Usaha",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-female.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Mery, SE.",
+			"jabatan":"Koordinator Inventaris",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-female.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Ir. Theresia Lestiowati, MSc.",
+			"jabatan":"Kepala Bidang Perangkat Keras dan Jaringan",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-female.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Wahyudi",
+			"jabatan":"Koordinator Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Sutikno",
+			"jabatan":"Staf Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Dwi Fitrianto",
+			"jabatan":"Staf Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Purwantara Adroit, S.Kom.",
+			"jabatan":"Koordinator Perangkat Keras",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Imam Kriswibowo, A.Md",
+			"jabatan":"Staf Divisi Perangkat Keras",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+		{
+			"group":"staff",
+			"nama":"Michael Constantine Wijaya, S.Kom.",
+			"jabatan":"Staf Divisi Jaringan",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-male.jpg"
+		},
+
+
+
+
+		{
+			"group":"mpw",
+			"nama":"Yosua Umbu Datu Kadiwanu",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Hocky Hendra Dermawan",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Edric Jonathan",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Alexandra Nadia Prametya",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-girl.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Rainer Adi Junior",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Nico Gufron",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Cindy Lestari Utomo",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-girl.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Catheryne Dwiputri Laiman",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-girl.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Christopher Hanjaya Gunawan",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Elizabeth Dewi Suminar",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-girl.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Beatrix Elliana Limina",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-girl.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Kevin Christian Salim",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Michelle Florensia",
+			"jabatan":"Operasional Kelas",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-girl.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Joshua Allan Saputra",
+			"jabatan":"Perangkat Keras",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		},
+		{
+			"group":"mpw",
+			"nama":"Yoshua Dennish Kurniawan",
+			"jabatan":"Jaringan",
+			"twitter":"#",
+			"facebook":"#",
+			"instagram":"#",
+			"linkedin":"#",
+			"image":"assets/images/petra/staff/default-boy.jpg"
+		}
+	]
+}

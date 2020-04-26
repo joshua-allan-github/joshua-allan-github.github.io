@@ -1,0 +1,54 @@
+{
+	"links":[
+		{
+			"group":"important",
+			"title":"Jadwal & Peminjaman Laptop/Projektor",
+			"href":"http://softdev2.petra.ac.id/puskom/peminv/"
+		},
+		{
+			"group":"important",
+			"title":"Jadwal & Pemesanan Lab. Komputer/R.Vikon",
+			"href":"http://coplab.petra.ac.id/operasional_kelas/semester/"
+		},
+		{
+			"group":"important",
+			"title":"Data Inventaris",
+			"href":"http://inv-it.petra.ac.id/"
+		},
+		{
+			"group":"important",
+			"title":"Web Mail UK Petra",
+			"href":"http://mail.petra.ac.id/"
+		},
+		{
+			"group":"important",
+			"title":"Laporan Kerusakan Hardware",
+			"href":"http://inv-it.petra.ac.id:8080/ticketing/index.php"
+		},
+		{
+			"group":"important",
+			"title":"SIM",
+			"href":"https://sim.petra.ac.id/"
+		},
+		{
+			"group":"software",
+			"title":"Microsoft Office 365",
+			"href":"https://portal.office.com"
+		},
+		{
+			"group":"software",
+			"title":"Microsoft Campus Agreement (MSCA)",
+			"href":"http://camagree.petra.ac.id/"
+		},
+		{
+			"group":"software",
+			"title":"Microsoft Developer Network - Academic Alliance (MSDN-AA)",
+			"href":"http://camagree.petra.ac.id/site/msdnaa"
+		},
+		{
+			"group":"software",
+			"title":"Microsoft Azure Dev Tools for Teaching (d/h MS Imagine)",
+			"href":"https://azureforeducation.microsoft.com/devtools"
+		}
+	]
+}

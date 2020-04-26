@@ -1,0 +1,163 @@
+{
+	"blogs":[
+		{
+			"group":"home",
+			"title":"Jam layanan Selama Pandemi Corona",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"Mendukung Surat Edaran Rektor 0513/UKP/2020 perihal sikap UK Petra terhadap wabah corona , maka dengan ini kami sampaikan JAM BUKA Operasional PTIK (Puskom) baik di Gedung Radius Prawiro, T , dan P : <br><br><b>Senin - Jumat : 07.30-15.30</b><br><br>Perubahan jam buka kedepan akan kami sampaikan pada pemberitahuan selanjutnya. <br>Demikian kami sampaikan, untuk menjadi perhatian."
+		},
+
+		{
+			"group":"home",
+			"title":"2 Unit Kerja Baru",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>Sebagaimana telah ditetapkan dalam Statuta Universitas Kristen Petra Tahun 2018, maka, mulai 1 Oktober 2019, Pusat Komputer telah direstrukturisasi/dipilah menjadi<strong> 2 unit kerja yang baru </strong>yaitu<strong> :</strong></p><ul><li><strong>Pusat Pengembangan Sistem Informasi (PPSI) - </strong>yang memiliki tugas utama : <br>mengelola pengembangan dan operasional sistem informasi di lingkungan UK Petra;</li><li><strong>Pusat Teknologi Informasi dan Komunikasi (PTIK) - </strong>yang memiliki tugas utama : <br>mengelola jaringan dan komunikasi data serta fasilitas komputasi di lingkungan UK Petra;</li></ul><p>Kedua Unit berkantor di Gedung Radius Prawiro lt. 4 (ex. Pusat Komputer)</p><br><br><p><strong>Layanan Pusat Teknologi Informasi dan Komunikasi (PTIK)</strong> adalah terkait penyediaan sarana TI untuk mendukung proses pembelajaran dan pelayanan administrasi akademik di bidang infrastruktur  jaringan, perangkat keras (hardware), lab. komputer, pemanfaatan software Microsoft (MSCA/MSDN-AA).</p><p>Layanan Administrasi dan pemeliharaan infrastruktur terpusat di gedung Radius Prawiro lt. 4, sedangkan layanan pemakaian laboratorium komputer terdapat di gedung P lt. 2, gedung Radius Prawiro lt. 4, dan gedung T lt. 4.</p>"
+		},
+
+		{
+			"group":"home",
+			"title":"Jam Layanan",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<strong>- Administrasi dan Pemeliharaan : </strong>Senin - Jumat : 07.30 - 15.30<br><strong>- Laboratorium Komputer : </strong><br><table class=\"table\"><thead class=\"thead-dark\"><tr><th scope=\"col\">Kegiatan</th><th scope=\"col\">Tempat</th><th scope=\"col\">Hari</th><th scope=\"col\">Jam</th></tr></thead><tbody><tr><td rowspan=\"6\">Perkuliahan</td><td rowspan=\"2\">P</td><td>Senin - Jumat</td><td>07.30 - 17.30</td></tr><tr><td>Sabtu</td><td>07.30 - 15.30</td></tr><tr><td rowspan=\"2\">Radius Prawiro</td><td>Senin - Jumat</td><td>07.30 - 19.30</td></tr><tr><td>Sabtu</td><td>07.30 - 15.30</td></tr><tr><td rowspan=\"2\">T</td><td>Senin - Jumat</td><td>07.30 - 19.30</td></tr><tr><td>Sabtu</td><td>07.30 - 15.30</td></tr><tr><td rowspan=\"2\">Masa UTS/UAS</td><td rowspan=\"2\">Semua Lab.</td><td>Senin - Jumat</td><td>07.30 - 17.30</td></tr><tr><td>Sabtu</td><td>07.30 - 15.30</td></tr><tr><td>Libur Semester</td><td>Semua Lab.</td><td>Senin - Jumat</td><td>07.30 - 15.30</td></tr></tbody></table><br><p>Catatan:</p><ul><li>Layanan Jam Bebas dan Ruang Laptop dimulai pk. 08.00</li><li>Pada hari Senin saat Kebaktian Universitas, Puskom TUTUP pada pk. 11.30 - 13.00</li></ul>"
+		},
+
+		{
+			"group":"layanan",
+			"title":"Layanan di Pusat Teknologi Informasi dan Komunikasi",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<ul><li><a href=\"layanan_mahasiswa_dan_pegawai.html\">Untuk Mahasiswa dan Pegawai</a></li><li><a href=\"layanan_unit.html\">Untuk Unit</a></li><li><a href=\"layanan_tarif.html\">Tarif</a></li></ul>"
+		},
+
+		{
+			"group":"layanan_mahasiswa_dan_pegawai",
+			"title":"Mahasiswa dan Pegawai",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p><strong>a.&nbsp;</strong><strong>Microsoft Open Value Subscription-Education Solutions Agreement (OVS-ES)<br /></strong></p><p>Pegawai tetap dan mahasiswa aktif UK Petra dapat memanfaatkan program yang sebelumnya dikenal dengan nama Microsoft Campus Agreement (MSCA) ini dengan mengikuti peraturan dan prosedur yang berlaku.<br />Untuk penjelasan tentang fasilitas ini dan peraturan yang berlaku silakan&nbsp;<strong><a href=\"http://camagree.petra.ac.id/\">klik di sini</a><a href=\"http://genesis.petra.ac.id/puskom/camagree/index.asp\">.</a></strong><br />Layanan pemesanan tersedia di Puskom gedung Radius Prawiro lantai 4 pada jam kerja administrasi.</p><p>&nbsp;</p><p>&nbsp;<strong>b</strong>.&nbsp;<strong>MSDN-AA<br /></strong></p><p>Sejak Agustus 2002, Pusat Komputer mengikuti program Microsoft Developer Network Academic Alliance (MSDN-AA) yang menyediakan berbagai program aplikasi yang dapat digunakan oleh dosen dan mahasiswa aktif UK Petra untuk keperluan belajar mengajar dan penelitian. Saat ini program-program tersebut tersedia di&nbsp;<a href=\"https://azureforeducation.microsoft.com/devtools\">Microsoft Azure DevTools for Teaching</a>&nbsp;(yang sebelumnya dikenal dengan Microsoft Imagine).<br /><a href=\"http://camagree.petra.ac.id/site/msdnaa\"><strong>Klik di sini</strong></a>&nbsp;untuk melihat daftar perangkat lunak yang tersedia.&nbsp;<strong><a href=\"assets/Uploads/file-pdf/MSDNAA-rev-Feb10.pdf\"><br /></a></strong>Layanan pemesanan tersedia di Puskom gedung Radius Prawiro lantai 4 pada jam kerja administrasi.</p><p>&nbsp;</p><p><strong>&nbsp;<strong>c.&nbsp;VMWARE</strong></strong></p><p>Pusat Komputer menyediakan lisensi produk-produk&nbsp;VMWARE untuk dosen/pegawai/mahasiswa aktif UK Petra. Untuk keterangan lebih lanjut dipersilakan menghubungi divisi Jaringan Pusat Komputer di Gedung Radius Prawiro lantai 4.</p><p>&nbsp;</p><p><strong><strong>d.&nbsp;</strong><strong>E-mail</strong></strong></p><p>UK Petra menyediakan fasilitas e-mail untuk mahasiswa dan pegawai tetap aktif UK Petra dengan ketentuan sebagai berikut:</p><ul><li>Mahasiswa UK Petra secara otomatis mendapatkan e-mail account.&nbsp;Login, password, dan cara penggunaan diinformasikan pada saat Pelatihan Pengenalan Teknologi Informasi&nbsp;UK Petra bagi Mahasiswa Baru (dalam rangkaian Welcome Grace Generation/WGG).</li><li>Pegawai tetap UK Petra (akademik dan administrasi) dapat memperoleh e-mail account atas rekomendasi&nbsp; Kepala Unitnya. Permintaan dikirim melalui e-mail official account (OA) Kepala unit, ditujukan pada&nbsp;<a href=\"mailto:puskom@petra.ac.id\">puskom@petra.ac.id</a>&nbsp;&nbsp;(dengan menyertakan nama lengkap + NIP).</li><li>E-mail account akan di-non-aktif-kan bila:<br />-&nbsp;&nbsp;&nbsp; mahasiswa bersangkutan menjalani cuti studi<br />-&nbsp;&nbsp;&nbsp; pegawai bersangkutan menjalani Cuti Luar Tanggungan &gt; 1 bulan</li><li>E-mail account akan dihapus bila yang bersangkutan sudah tidak lagi menjadi mahasiswa atau pegawai aktif UK Petra.</li><li>E-mail digunakan secara bertanggung jawab dengan:<br />-&nbsp;&nbsp;&nbsp; Tidak mengirimkan virus, worm, atau program perusak lain serta e-mail spamming.<br />-&nbsp;&nbsp;&nbsp; Tidak mengirimkan e-mail yang berisi ancaman, penghinaan, atau yang bersifat SARA.</li></ul><p>&nbsp;</p><p><strong><strong>e.&nbsp;</strong><strong>Digitalisasi Tugas Akhir (untuk mahasiswa)</strong></strong></p><p>Pusat Komputer menyediakan layanan copy/write&nbsp;Tugas Akhir ke media optik dengan&nbsp;<a href=\"layanan_tarif.html\">biaya</a>&nbsp;sesuai ketentuan yang berlaku. Bila diperlukan kami dapat membantu dengan mengkonversi data dari format MS Words ke format PDF. Untuk keterangan lebih lanjut silakan menghubungi Puskom gedung Radius Prawiro lantai 4.</p>"
+		},
+
+		{
+			"group":"layanan_unit",
+			"title":"Unit",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p><strong>a.&nbsp;</strong><strong>Pembuatan Mailing List</strong></p><p>Mailing list (milis) dapat dibuat untuk kepentingan kegiatan belajar-mengajar, menunjang kelancaran komunikasi di unit, kelompok kerja, atau kepanitiaan dengan menggunakan fasilitas Google Group. Panduan dapat dilihat di&nbsp;<a href=\"assets/Uploads/file-pdf/PanduanGoogleGroups.pdf\">Tutorial</a>.</p><p>&nbsp;</p><p><strong>b</strong>.&nbsp;<strong>Domain Name</strong></p><p>Permohonan Domain Name dilakukan dengan mengirimkan e-mail ke puskom.petra.ac.id dengan menyertakan informasi :<br />-&nbsp; Nama Domain<br />-&nbsp; Masa Aktif (permanen atau sementara. Bila sementara mohon disebutkan tanggal berakhirnya)<br />-&nbsp; Sifat Koneksi: internet (bisa diakses dari luar UKP) atau intranet (tidak bisa diakses dari luar UKP)<br />-&nbsp; Database:&nbsp;bila memerlukan database&nbsp;mohon diinformasikan nama database yang dikehendaki<br />-&nbsp; Pengelola : Nama, NIP, e-mail, unit, telp. ext.,&nbsp;<em>mobile phone</em><br />-&nbsp; Keterangan peruntukan</p><p>Penanggung Jawab domain name adalah Kepala unit</p><p>&nbsp;</p><p><strong>c.</strong>&nbsp;<strong>Peminjaman Laboratorium Komputer</strong></p><p>Peminjaman Laboratorium Komputer di Pusat Komputer dibagi menjadi 2 macam yaitu peminjaman Laboratorium untuk kegiatan perkuliahan selama 1 semester (khusus Unit Akademik) dan peminjaman harian (insidentil).<br />Permohonan peminjaman Laboratorium Komputer dapat dilakukan dengan mengisi form peminjaman laboratorium dengan mengikuti prosedur dan peraturan yang berlaku.<br />-&nbsp; Klik di&nbsp;<a href=\"http://coplab.petra.ac.id/operasional_kelas/semester\"><strong>sini</strong></a>&nbsp;untuk peminjaman Lab. Komputer Puskom</p><p><em><strong>Catatan</strong></em>:</p><p>Untuk mendukung kelancaran Kegiatan Belajar Mengajar dan menjaga stabilitas&nbsp;<em>software</em>&nbsp;yang digunakan, maka Puskom melakukan instalasi&nbsp;<em>software</em>&nbsp;<strong>hanya</strong>&nbsp;pada awal semester, maksimal sampai dengan batas akhir PRS 1. Setelah PRS 1, Puskom tidak lagi menerima permintaan untuk instalasi software.</p><p>Untuk peminjaman insidentil, bila membutuhkan&nbsp;<em>software&nbsp;</em>yang tidak terdapat di Lab. Puskom:</p><ul><li><strong>Hanya</strong>&nbsp;dimungkinkan untuk dijadualkan di Lab.&nbsp;<strong>T-A</strong>. Untuk itu terlebih dahulu cek&nbsp; ketersediaan Lab. T-A pada tanggal yang dimaksudkan.</li><li>&shy;Pengguna menyediakan sendiri&nbsp;<em>software&nbsp;</em>yang dibutuhkan, dan ikut mengawasi saat instalasi untuk memastikan<em>&nbsp;software</em>&nbsp;berjalan dengan baik.</li><li>Pemesanan&nbsp; dilakukan paling lambat 3 (tiga) hari sebelum tanggal pelaksanaan.</li></ul><p>Untuk keterangan lebih lanjut dipersilakan menghubungi Koordinator Operasional Kelas di Puskom gedung Radius Prawiro lt. 4 pswt. 3314.</p><p>&nbsp;</p><p><strong>d</strong>.&nbsp;<strong>Peminjaman LCD/Laptop</strong></p><p>Disediakan bagi Jurusan/Unit yang membutuhkan LCD, Laptop dan peralatan komputer lainnya untuk kepentingan dinas UK Petra, dengan prioritas untuk kegiatan&nbsp;belajar mengajar. Pengajuan peminjaman dilakukan secara online dengan mengisi e-form&nbsp;dan mengikuti&nbsp;<a href=\"assets/Uploads/file-pdf/KetentuanPeminjamanInvPuskom.pdf\"><strong>prosedur</strong>&nbsp;dan&nbsp;<strong>ketentuan&nbsp;</strong></a>yang berlaku. Dapat terpenuhi/tidaknya permintaan akan&nbsp;diinformasikan melalui e-mail.</p><p>- Klik di&nbsp;<a href=\"http://softdev.petra.ac.id/puskom/peminv/\"><strong>sini</strong></a>&nbsp;untuk mengisi Form Peminjaman Laptop dan LCD.<br /><br />Peminjaman peralatan komputer lainnya&nbsp;dapat dilakukan&nbsp;dengan mengirimkan&nbsp;e-mail ke Pusat Komputer (<a href=\"mailto:puskom@petra.ac.id\">puskom@petra.ac.id</a>) melalui Official Account atau e-mail Unit.</p><p>Untuk Lembaga Kemahasiswaan, peminjaman dilakukan dengan menulis surat permohonan kepada Kepala Puskom dengan diketahui oleh Unit Induknya.</p><p>Untuk keterangan lebih lanjut dipersilakan menghubungi Koordinator Operasional Kelas di&nbsp;pswt. 3314.</p><p>&nbsp;</p><p><strong>e.</strong>&nbsp;<strong>Perbaikan Komputer dan Jaringan</strong></p><p>Pusat Komputer melayani pemeliharaan dan perbaikan perangkat keras maupun jaringan bagi Unit yang ada di UK Petra.</p><ul><li>Permintaan perbaikan perangkat keras dapat dilakukan melalui telepon ke pswt. 3315 atau dengan membawa langsung perangkat yang rusak ke divisi Perangkat Keras/Hardware Pusat Komputer Ged.W lantai 4.&nbsp;</li><li>Pelaporan masalah pada jaringan dapat dilakukan melalui telepon ke pswt. 3311</li><li></li></ul><p><strong>f.</strong>&nbsp;<strong>Informasi Data Inventaris Perangkat Keras Unit</strong></p><p>Dapat di akses melalui&nbsp;<strong><a href=\"http://inv-it.petra.ac.id/\"><strong>http://inv-it.petra.ac.id</strong></a></strong>. Login dengan menggunakan e-mail account unit (misal: puskom, baa, hotel).</p><p>&nbsp;</p><p><strong>g. Penggantian Perangkat Keras yang Rusak</strong></p><p>Puskom melayani penggantian langsung perangkat keras milik Unit yang rusak yang berupa:<br />- Mouse<br />- Keyboard<br />- Monitor<br />- Harddisk<br />- Optical Disk Drive (misal : DVD-ROM, DVD-RW, dsb)<br />- Memory<br />- Power supply</p><p>dengan mengikuti prosedur yang berlaku.</p><p>Selain yang tersebut diatas penggantian diajukan Unit melalui Anggaran Pengembangan.<br />Untuk keterangan lebih lanjut dapat menghubungi Koordinator Inventaris di pswt. 3312</p>"
+		},
+
+		{
+			"group":"layanan_tarif",
+			"title":"Tarif",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>Berlaku per 21 Februari 2011&nbsp;</p><p>&nbsp;</p><p><strong>1. Biaya Cetak</strong></p><p><strong>&nbsp;a. Kertas copy 70 gsm</strong></p><table border=\"1\" cellspacing=\"0\" cellpadding=\"0\"><tbody><tr><td colspan=\"2\" width=\"170\"><p align=\"center\"><strong>Laser Jet</strong></p></td><td colspan=\"4\" width=\"342\"><p align=\"center\"><strong>Desk Jet</strong></p></td></tr><tr><td colspan=\"2\" width=\"170\"><p align=\"center\"><strong>Ukuran A4 (hitam putih)</strong></p></td><td colspan=\"2\" width=\"162\"><p align=\"center\"><strong>Ukuran A4</strong></p></td><td colspan=\"2\" width=\"180\"><p align=\"center\"><strong>Ukuran A3</strong></p></td></tr><tr><td width=\"68\"><p align=\"center\">Text</p></td><td width=\"102\"><p align=\"center\">Grafik / Image</p></td><td width=\"84\"><p align=\"center\">Hitam putih</p></td><td width=\"78\"><p align=\"center\">Warna</p></td><td width=\"90\"><p align=\"center\">Hitam putih</p></td><td width=\"90\"><p align=\"center\">Warna</p></td></tr><tr><td width=\"68\"><p align=\"center\">Rp 500,-</p></td><td width=\"102\"><p align=\"center\">Rp 500,-</p></td><td width=\"84\"><p align=\"center\">Rp 500,-</p></td><td width=\"78\"><p align=\"center\">Rp 2.500,-</p></td><td width=\"90\"><p align=\"center\">Rp 10.000,-</p></td><td width=\"90\"><p align=\"center\">Rp 15.000,-</p></td></tr></tbody></table><p>&nbsp;</p><p><strong>b. Biaya kertas khusus ukuran A4</strong></p><ul><li><strong>Desk jet</strong><ul><li>Glossy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;Rp 1.000,- / lbr</li><li>Transparan&nbsp; : &nbsp;Rp 5.000,- / lbr</li></ul></li><li><strong>Laser jet</strong><ul><li>Transparan&nbsp; :&nbsp; Rp 5.000,- / lbr</li></ul></li></ul><p>&nbsp;</p><p>&nbsp;<strong>2. Biaya copy /&nbsp;<em>burned</em>&nbsp;ke optical disk</strong>&nbsp;(Harga termasuk label dan&nbsp;<em>casing)</em></p><ul><li>DVD std&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Rp. 10.000/keping</li><li>DVD double layer (8,5 Gb)&nbsp;&nbsp;&nbsp; : Rp. 15.000/keping</li><li>CD&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; : Rp.&nbsp; &nbsp;7.000/keping</li></ul><p>&nbsp;&nbsp;&nbsp;&nbsp; Layanan ini hanya untuk&nbsp;<a href=\"http://puskom.petra.ac.id/camagree/index.asp\" target=\"_blank\">MSCA</a>,&nbsp;<a href=\"http://puskom.petra.ac.id/msdnaa2.asp\" target=\"_blank\">MSDNAA</a>, dan&nbsp;<a href=\"layanan_mahasiswa_dan_pegawai.html\" target=\"_blank\">digitalisasi Tugas Akhir</a>.</p>"
+		},
+
+		{
+			"group":"fasilitas",
+			"title":"Fasilitas di Pusat Komputer",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<ul><li><a href=\"fasilitas_ruang_laptop.html\">Ruang Laptop</a></li><li><a href=\"fasilitas_labkom.html\">Laboratorium Komputer</a></li><li><a href=\"fasilitas_hotspot.html\">Hotspot</a></li><li><a href=\"fasilitas_video_conference.html\">Video Conference</a></li></ul>"
+		},
+
+		{
+			"group":"fasilitas_ruang_laptop",
+			"title":"Ruang Laptop",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>Untuk memfasilitasi mahasiswa yang menggunakan laptop&nbsp;untuk kegiatan belajar&nbsp;selama di kampus, maka per 19 April 2010 PTIK (d/h Puskom) menyediakan fasilitas baru yang diberi nama Ruang Laptop yang terletak di gedung Radius Prawiro lantai 4 dan gedung T lantai 4. Dan sejak 30 November 2011, Ruang Laptop juga tersedia di PTIK gedung P lantai 2.<br /><br />Fasilitas yang tersedia adalah :</p> <ul> <li>Ruang ber- AC dengan kapasitas 20 meja+kursi di PTIK gedung Radius Prawiro dan P, dan 8 meja+kursi di PTIK T.</li> <li>Koneksi internet melalui jaringan kabel dan nirkabel</li> </ul> <p>Ketentuan :</p> <ul> <li>Hanya untuk Mahasiswa &amp; pegawai aktif UK Petra</li> <li>Membawa laptop sendiri</li> <li>Tidak diperkenankan membawa makanan/minuman</li> <li>Mematuhi&nbsp;<a href=\"assets/Uploads/file-pdf/PeraturanrLaptop-270715.pdf\" target=\"_blank\">Peraturan yang berlaku</a></li> </ul> <p><em>Catatan</em>&nbsp;:</p> <p>Per 4 Desember 2019 fasilitas Ruang Laptop di Puskom (sekarang Pusat Teknologi Informasi dan Komunikasi) Gedung Radius Prawiro lt 4 ditiadakan. Layanan Ruang Laptop di sediakan di PTIK Gedung P lantai 2 dan Gedung T lantai 4.</p>"
+		},
+
+		{
+			"group":"fasilitas_labkom",
+			"title":"Laboratorium Komputer",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p><a title=\"Jadual Lab\" href=\"http://coplab.petra.ac.id/operasional_kelas/harian\" target=\"_blank\">Jadwal Praktikum</a></p> <p>Disediakan untuk perkuliahan, praktikum, dan pelatihan yang membutuhkan komputer.<br />Bila lab. sedang tidak digunakan untuk perkuliahan/praktikum maka akan dibuka untuk Jam Bebas, dimana mahasiswa dapat menggunakan lab. untuk keperluan&nbsp;penelusuran/penggalian bahan-bahan kuliah.<br /><br />Lokasi :</p> <ul> <li>Gedung P lantai 2 dengan 4 lab. komputer, dimana 2 lab. berkapasitas 20 komputer, 2 Lab. berkapasitas 40 komputer</li> <li>Gedung T lantai 4 dengan 5 lab komputer, masing-masing dengan kapasitas 40 unit komputer.</li> <li>Gedung Radius Prawiro lantai 4 dengan 1 lab. komputer, kapasitas 20 unit komputer</li> </ul> <p>&nbsp;</p> <p>Untuk&nbsp;melihat jadwal pemakaian Laboratorium PTIK&nbsp;<strong><strong><a title=\"Peraturan Lab. Komputer\" href=\"http://coplab.petra.ac.id/operasional_kelas/harian\" target=\"_blank\">klik di sini</a>.</strong></strong><br />Pengguna lab. diwajibkan untuk mengikuti&nbsp;<a title=\"Peraturan Lab. Komputer\" href=\"assets/Uploads/file-pdf/PeraturanLab-Komp-270715.pdf\" target=\"_blank\"><strong><strong><strong><strong>peraturan yang berlaku</strong></strong>.</strong></strong></a></p>"
+		},
+
+		{
+			"group":"fasilitas_hotspot",
+			"title":"Hotspot",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>Fasilitas ini disediakan untuk menunjang kegiatan belajar mengajar dan administrasi.<br />Akses dapat dilakukan dengan menggunakan login/password e-mail account.</p> <p>Cakupan area hotspot ini meliputi 95% area kampus UK Petra.</p>"
+		},
+
+		{
+			"group":"fasilitas_video_conference",
+			"title":"Video Conference",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>Fasilitas ini dapat digunakan oleh Unit Akademik/Unit Pendukung yang akan menyelenggarakan acara video conference dengan menggunakan aplikasi seperti skype.</p> <p>Peminat dapat memesan secara online di website PTIK tautan&nbsp;<a href=\"http://coplab.petra.ac.id/operasional_kelas/semester\" target=\"_blank\">Jadwal &amp; Pemesanan Lab. Komputer/R. Vicon</a>&nbsp;menggunakan login unit.</p>"
+		},
+
+		{
+			"group":"tutorial",
+			"title":"Tutorial",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>1. Google Mail</p> <p>&nbsp;&nbsp;&nbsp; a.&nbsp;<a href=\"assets/Uploads/file-pdf/Googlemail-Tutorial-rev0315.pdf\" target=\"_blank\">Akses e-mail UK Petra di&nbsp;<strong>Google Mail</strong></a></p> <p>&nbsp;&nbsp;&nbsp; b.&nbsp;<a href=\"assets/Uploads/file-pdf/Panduan-migrasi-email-ke-Gmail.pdf\" target=\"_blank\">Panduan&nbsp;<strong>Migrasi Inbox dan Folder</strong>&nbsp;Lain dari Mailbox \"Lama\" ke Google Mail</a></p> <p>&nbsp;&nbsp;&nbsp; c.&nbsp;<a href=\"assets/Uploads/file-pdf/Panduan-migrasi-Address-Book-ke-Google-Contacts.pdf\" target=\"_blank\">Panduan&nbsp;<strong>Migrasi Address Book</strong>&nbsp;ke Google Contacts</a></p> <p>&nbsp;&nbsp;&nbsp; d.&nbsp;<a title=\"Google Group\" href=\"assets/Uploads/file-pdf/PanduanGoogleGroups.pdf\" target=\"_blank\">Panduan Mengelola&nbsp;<strong>Google Group</strong></a></p> <p>&nbsp;&nbsp;&nbsp; e.&nbsp;<a href=\"assets/Uploads/file-pdf/Instalasi-Gmail-di-Smartphone.pdf\" target=\"_blank\">Setting e-mail UK Petra - Google mail di&nbsp;<strong>Smartphone</strong></a></p> <p>&nbsp;&nbsp;&nbsp; f.&nbsp;&nbsp;<a href=\"assets/Uploads/file-pdf/MengirimkanfilemenggunakanG-Drive.pdf\" target=\"_blank\">Panduan Mengirimkan File via e-mail menggunakan&nbsp;<strong>Google Drive</strong></a></p> <br><p>2.&nbsp;<a href=\"assets/Uploads/file-pdf/Flowchart-MSCA-MSDN-JADI.pdf\" target=\"_blank\"><strong>Flowchart Pemesanan Software</strong></a></p> <p>3.<a href=\"assets/Uploads/file-pdf/projector-Juli12.pdf\" target=\"_blank\">&nbsp;Yang Perlu Diketahui Tentang Penggunaan&nbsp;<strong>Projector Ruang Kelas</strong></a></p> <p>4.&nbsp;<a href=\"assets/document/Pemeliharaan-hwswjar-web.pdf\" target=\"_blank\">Pedoman Perawatan Perangkat Keras, Perangkat Lunak, dan Jaringan</a></p> <p>5.&nbsp;<a href=\"assets/Uploads/file-pdf/Petunjuk-Umum-Pencegahan-Virus-Komputer.pdf\" target=\"_blank\">Petunjuk Umum Pencegahan terinfeksi Virus Komputer</a></p> <p>6.&nbsp;<a title=\"mail\" href=\"assets/Uploads/file-pdf/materi-mail.pdf\" target=\"_blank\">Aplikasi Email dan MailingList Manager</a></p> <p>7.&nbsp;<a href=\"assets/Uploads/file-pdf/materi-pemeliharaan-HW-SW.pdf\" target=\"_blank\">Pemeliharaan Hardware dan Software</a></p> <p>8.&nbsp;<a title=\"Lab. Puskom\" href=\"assets/Uploads/file-pdf/Panduan-Peminjaman-Lab.pdf\" target=\"_blank\">Panduan Pengajuan Pemakaian Lab. Komputer Puskom</a></p> <p>&nbsp;</p> <p>&nbsp;</p> <p><strong>Materi Pelatihan TI - UKP untuk&nbsp; Mahasiswa Baru<br /></strong></p> <p>1.&nbsp;&nbsp;<a href=\"assets/Uploads/file-pdf/materi-Pengenalan-TI-2019.pptx\" target=\"_blank\">WGG 2019</a></p> <p>2.&nbsp;&nbsp;<a href=\"https://youtu.be/U9UAebQKFNM\" target=\"_blank\">Tutorial Dasar 'Lentera'</a></p>"
+		},
+
+		{
+			"group":"tentang_profil",
+			"title":"Profil",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>Pusat Komputer adalah unsur penunjang akademik, yang merupakan perangkat kelengkapan di bidang pendidikan, penelitian, dan pengabdian masyarakat (yang berada di luar fakultas dan jurusan), khususnya yang berhubungan dengan teknologi informasi.</p> <p align=\"left\"><strong>Tugas dan Fungsi</strong></p> <ol> <li>Mengkoordinasi penyediaan sarana komputer dan perangkat multimedia dalam pelaksanaan kegiatan Pendidikan dan Pengajaran yang berbasis Teknologi Informasi.</li> <li>Mengkoordinasi pengaturan jadwal perkuliahan/praktikum yang menggunakan Laboratorium Komputer Puskom.</li> <li>Mengkoordinasi Sistem Informasi di lingkungan Universitas Kristen Petra.</li> <li>Mengkoordinasi perencanaan dan penyediaan infrastuktur jaringan beserta perangkatnya untuk menunjang Jaringan Komputer di Universitas Krsiten Petra.</li> <li>Mengkoordinasi pengadaan, pemeliharaan dan pendataan Inventaris Perangkat Keras di Universitas Kristen Petra.</li> </ol> <p align=\"left\"><strong>Tujuan</strong></p> <ul> <li>Menunjang kelancaran kegiatan belajar mengajar, penelitian, dan pengabdian masyarakat yang menggunakan perangkat TI, baik perangkat keras, perangkat lunak, maupun jaringan komputer.</li> <li>Menunjang kelancaran administrasi universitas yang menggunakan perangkat TI, baik perangkat keras, perangkat lunak, maupun jaringan komputer dan mendukung pelatihan aplikasi komputer yang dibutuhkan.</li> <li>Menjamin kehandalan jaringan PetraNet (yang dalam kendali Puskom), termasuk penyediaan bandwidth untuk seluruh Universitas Kristen Petra</li> <li>Mendukung pengembangan sistem informasi terintegrasi</li> </ul> <p><strong>Struktur Organisasi</strong></p><br><img src=\"assets/img/petra/struktur_organisasi.jpg\" alt=\"\" width=\"600\" height=\"403\" />"
+		},
+
+		{
+			"group":"tentang_kontak",
+			"title":"Kontak",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<p>&nbsp;</p> <table border=\"1\" cellspacing=\"0\"> <tbody> <tr align=\"center\" bgcolor=\"#ffffcc\"> <td width=\"30%\"><strong>Divisi</strong></td> <td width=\"35%\"><strong>Lokasi</strong></td> <td width=\"35%\"><strong>Telp. / Ext.</strong></td> </tr> <tr bgcolor=\"#e5e5e5\"> <td>Administrasi / Tata Usaha</td> <td>Ged. Radius Prawiro lt. 4</td> <td>031.298 3312</td> </tr> <tr valign=\"top\" bgcolor=\"#e5e5e5\"> <td>Operasional Kelas/Lab Komputer</td> <td> <p>Ged. P lt. 2<br />Ged. Radius Prawiro lt. 4</p> <p>Ged. T lt. 4</p> </td> <td>031.298 3482<br />031.298 3884 , 031.298 3314<br />031.298 3292</td> </tr> <tr bgcolor=\"#e5e5e5\"> <td>Jaringan</td> <td>Ged. Radius Prawiro lt. 4</td> <td>031.298 3311</td> </tr> <tr bgcolor=\"#e5e5e5\"> <td>Perangkat Keras</td> <td>Ged. Radius Prawiro lt. 4</td> <td>031.298 3315</td> </tr> <tr bgcolor=\"#e5e5e5\"> <td>Pengembangan Perangkat Lunak</td> <td>Ged. P. lt. 2</td> <td> <p>031.298 3480,</p> <p>031.298 3478</p> </td> </tr> </tbody> </table> <br><p>Alamat&nbsp;&nbsp;&nbsp; :&nbsp; Jl. Siwalankerto 121-131, Surabaya 60236<br />E-mail&nbsp;&nbsp;&nbsp;&nbsp; :&nbsp;&nbsp;<a href=\"mailto:puskom@petra.ac.id\">puskom@petra.ac.id</a></p>"
+		},
+
+		{
+			"group":"download",
+			"title":"Download",
+			"author":"Admin",
+			"date":"Feb 1, 2020",
+			"content":"<ol type=\"1\"><li>Seminar Rekayasa Struktur dan Baja - Prodi. Magister Teknik Sipil UK Petra, 4 Juli 2014</li><ol type=\"a\"><li><a href=\"assets/Uploads/file-pdf/Wiryanto-Materi-Seminar-Petra-4-Juli-2014.pdf\" target=\"_blank\">Wiryanto Dewobroto : Rekayasa Komputer dalam Analisis dan Desain Struktur Baja</a></li><ul type=\"circle\"><li><a href=\"assets/Uploads/file-pdf/handout-presentasi1.pdf\" target=\"_blank\">Presentasi 1 : Latar Belakang Teori</a></li><li><a href=\"assets/Uploads/file-pdf/handout-presentasi2.pdf\" target=\"_blank\">Presentasi 2 : Contoh Aplikasi Praktis</a></li></ul><br><li><a href=\"assets/Uploads/file-pdf/Perkembangan%20dan%20Prospek%20Rekayasa%20Struktur%20Kayu.pdf\" target=\"_blank\">Johannes A. Tjondro : Perkembangan dan Prospek Rekayasa Struktur Kayu di Indonesia</a><ul type=\"circle\"><li><a href=\"assets/Uploads/file-pdf/Semiloka%20Rekayasa%20Struktur%204%20Juli%202014.ppt\" target=\"_blank\">Presentasi</a></li></ul></li></ol><br><li><a title=\"Thunderbird portable_2004\" href=\"assets/Uploads/ThunderbirdPortable20024.zip\" target=\"_blank\">Thunderbird portable_2004</a></li><br><li><a href=\"assets/Uploads/petyavac.zip\" target=\"_blank\">Anti Petyaa</a></li></ol>"
+		},
+
+		{
+			"group":"berita_251119",
+			"title":"Ruang Laptop Ged. Radius Prawiro Ditiadakan",
+			"author":"Admin",
+			"date":"Nov 25, 2019",
+			"content":"<p>Mulai tanggal 4 Desember 2019,&nbsp;<strong>Ruang Laptop di Gedung Radius Prawiro</strong>&nbsp;<strong>akan</strong>&nbsp;<strong>ditutup</strong>.<br />Bagi yang membutuhkan R. Laptop, dipersilakan untuk menggunakan R. Laptop di PTIK Ged. P ataupun T.<br />Mohon maaf atas ketidaknyamanan ini.</p>"
+		},
+
+		{
+			"group":"berita_260219",
+			"title":"Azure Dev Tools for Teaching",
+			"author":"Admin",
+			"date":"Feb 26, 2019",
+			"content":"<p>Sejak 13 Februari 2019,&nbsp;<strong>MS Imagine</strong>&nbsp;telah diganti dengan&nbsp;<strong>Microsoft Azure Dev Tools for Teaching</strong>. Software yang tersedia antara lain MS Windows 10, MS Visual Studio, MS Visio, dll.</p> <p>Untuk mendapatkan akses, silakan berkunjung ke Puskom ged. Radius Prawiro Lt. 4 pada hari dan jam kerja Universitas.</p>"
+		},
+
+		{
+			"group":"berita_051015",
+			"title":"MS. Office 2016 for Mac, MS Office Pro. 2016 for Windows",
+			"author":"Admin",
+			"date":"Oct 05, 2015",
+			"content":"<p>MS. Office 2016 for Mac maupun Windows telah tersedia di UKP. Layanan tersedia di Puskom ged. Radius Prawiro lt. 4 pada hari dan jam kerja administrasi. Telah tersedia juga MS. Visio 2016 dan MS. Project 2016.</p>"
+		},
+
+		{
+			"group":"berita_300715",
+			"title":"MS Windows 10",
+			"author":"Admin",
+			"date":"Jul 30, 2015",
+			"content":"<p>MS Windows 10 telah tersedia di UKP. Layanan tersedia di Puskom ged. Radius Prawiro lt. 4 pada hari dan jam kerja administrasi.</p>"
+		}
+	]
+}
