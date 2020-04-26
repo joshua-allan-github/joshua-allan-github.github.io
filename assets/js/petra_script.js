@@ -304,11 +304,6 @@ function loadFooter(){
     'Direktori Kantor'+
     '</a>'+
     '</p>'+
-
-    '<br>'+
-    '<img src="assets/images/petra/logo_light.png" class="img-fluid" alt="">'+
-    '<br>'+
-    '<strong style="font-size: .6rem;color: #fff">Love &bull; Integrity &bull; Growth &bull; Humility &bull; Truth</strong>'+
     '</div>'+
 
     '<div class="col-lg-3 col-md-6 col-12">'+
@@ -334,6 +329,12 @@ function loadFooter(){
     'Kamus'+
     '</a>'+
     '</p>'+
+
+    '<br>'+
+    '<img src="assets/images/petra/logo_light.png" class="img-fluid" alt="">'+
+    '<br>'+
+    '<strong style="font-size: .6rem;color: #fff">Love &bull; Integrity &bull; Growth &bull; Humility &bull; Truth</strong>'+
+    
     '</div>'+
 
     '<div class="col-lg-4 mx-lg-auto text-center col-md-8 col-12">'+
