@@ -146,20 +146,27 @@ https://templatemo.com/tm-538-digital-trend
 <script src="assets/js/bootstrap.min.js"></script>
 <script src="assets/js/aos.js"></script>
 <script src="assets/js/owl.carousel.min.js"></script>
- <script>
-  $("#project-slide").owlCarousel({
-    //autoPlay: 2500,
-    autoPlay: false,// <-- if you want to set default slide time (5000)
+<script>
+  var $owl = $('.owl-carousel');
 
-    //slideSpeed: 300,
-    //paginationSpeed: 500,
-    //singleItem: true,
-    //navigation: true,
-    //scrollPerPage: true
+  $owl.children().each( function( index ) {
+  $(this).attr( 'data-position', index ); // NB: .attr() instead of .data()
 });
- </script>
- 
- 
+
+  $owl.owlCarousel({
+    center: true,
+    loop: true,
+    items: 3,
+  });
+
+  $(document).on('click', '.owl-item>div', function() {
+  // see https://owlcarousel2.github.io/OwlCarousel2/docs/api-events.html#to-owl-carousel
+  var $speed = 300;  // in ms
+  $owl.trigger('to.owl.carousel', [$(this).data( 'position' ), $speed] );
+});
+</script>
+
+
 <script src="assets/js/smoothscroll.js"></script>
 <script src="assets/js/custom.js"></script>
 <!--Start of Tawk.to Script-->
@@ -175,6 +182,6 @@ https://templatemo.com/tm-538-digital-trend
   })();
 </script>
 <!--End of Tawk.to Script-->
- 
+
 </body>
 </html>
