@@ -149,7 +149,7 @@ https://templatemo.com/tm-538-digital-trend
 <script>
   $('#project-slide').on('click', function(event){
     var $this = $(this);
-    if($this.hasClass('clicked')){
+    if($this('clicked')){
       owl.trigger('play.owl.autoplay');
     } else{
     owl.trigger('stop.owl.autoplay');
