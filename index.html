@@ -147,9 +147,14 @@ https://templatemo.com/tm-538-digital-trend
 <script src="assets/js/aos.js"></script>
 <script src="assets/js/owl.carousel.min.js"></script>
 <script>
-  $('#project-slide').on('click', function(event){
+ $( document ).ready(function() {
+    console.log( "ready!" );
+    $('#project-slide').on('load', function(){
     owl.trigger('stop.owl.autoplay');
+     console.log( "already trigger!!" );
  });
+});
+  
 </script>
 
 
