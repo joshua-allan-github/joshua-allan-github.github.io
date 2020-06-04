@@ -869,3 +869,8 @@ body {
 .team .member:hover .social {
   opacity: 1;
 }
+
+#content-container{
+ margin: 1.5em auto;
+ width: 920px;
+}
