@@ -694,6 +694,7 @@ body {
         /*max-width: 32%;*/
         margin: 0 auto;
       }
+
     }
 
     @media screen and (max-width: 991px) {
@@ -730,6 +731,7 @@ body {
         padding: 0;
         text-align: left;
       }
+
     }
 
     @media screen and (max-width: 767px) {
@@ -763,6 +765,12 @@ body {
 
       .footer-link li {
         margin-left: 0;
+      }
+
+      #container{
+      margin:0 auto;
+      max-width:70%;
+
       }
     }
 
