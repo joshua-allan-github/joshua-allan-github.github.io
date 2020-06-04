@@ -255,6 +255,11 @@ body {
       width: 100%;
     }
 
+    #content-container{
+     margin: 1.5em auto;
+    width: 75%;
+    }
+
 
 
   /*---------------------------------------
@@ -769,7 +774,7 @@ body {
 
       #content-container{
       margin:0 auto;
-      width:90vw;
+      width:100%;
 
       }
       body{
@@ -881,7 +886,4 @@ body {
   opacity: 1;
 }
 
-#content-container{
- margin: 1.5em auto;
- width: 75%;
-}
+
