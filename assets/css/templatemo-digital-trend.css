@@ -700,20 +700,20 @@ body {
     @media screen and (max-width: 991px) {
 
       .hero {
-        padding-top: 14em;
+        padding-top: 1em;
       }
 
       .hero-text {
-        bottom: 2em;
+        bottom: 1.5em;
       }
 
       .navbar {
-        padding: 1em;
+        padding: .5em;
       }
 
       .navbar-collapse {
         text-align: center;
-        padding: 2.5em 0;
+        padding: 1.5em 0;
       }
 
       .nav-link {
