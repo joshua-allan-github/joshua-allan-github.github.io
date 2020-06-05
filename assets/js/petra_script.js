@@ -73,7 +73,7 @@ function loadHeader(href, parent, child){
    '</li>'+
 
    '<li class="nav-item dropdown">'+
-   '<a href="#layanan" class="nav-link smoothScroll dropdown-toggle" data-toggle="dropdown">Layanan <b class="caret"></b></a>'+
+   '<a href="#" class="nav-link smoothScroll dropdown-toggle" data-toggle="dropdown">Layanan <b class="caret"></b></a>'+
    '<ul class="dropdown-menu">'+
    '<li><a href="layanan_mahasiswa_dan_pegawai.html">Mahasiswa dan Pegawai</a></li>'+
    '<li><a href="layanan_unit.html">Unit</a></li>'+
@@ -82,7 +82,7 @@ function loadHeader(href, parent, child){
    '</li>'+
 
    '<li class="nav-item dropdown">'+
-   '<a href="#fasilitas" class="nav-link smoothScroll dropdown-toggle" data-toggle="dropdown">Fasilitas <b class="caret"></b></a>'+
+   '<a href="#" class="nav-link smoothScroll dropdown-toggle" data-toggle="dropdown">Fasilitas <b class="caret"></b></a>'+
    '<ul class="dropdown-menu">'+
    '<li><a href="fasilitas_ruang_laptop.html">Ruang Laptop</a></li>'+
    '<li><a href="fasilitas_labkom.html">Laboratorium Komputer</a></li>'+
@@ -100,7 +100,7 @@ function loadHeader(href, parent, child){
    '</li>'+
 
    '<li class="nav-item dropdown">'+
-   '<a href="fasilitas.html" class="nav-link contact smoothScroll dropdown-toggle" data-toggle="dropdown">Tentang Kami <b class="caret"></b></a>'+
+   '<a href="#" class="nav-link contact smoothScroll dropdown-toggle" data-toggle="dropdown">Tentang Kami <b class="caret"></b></a>'+
    '<ul class="dropdown-menu">'+
    '<li><a href="about_profil.html">Profil</a></li>'+
    '<li><a href="about_kontak.html">Kontak</a></li>'+
