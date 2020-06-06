@@ -53,6 +53,7 @@
 
 body {
   background: var(--white-color);
+  background-image: linear-gradient(#0c8195, black);
   font-family: var(--base-font-family);
 }
 
