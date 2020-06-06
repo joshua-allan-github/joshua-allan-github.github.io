@@ -40,12 +40,12 @@
   --font-bold-family:     'Plain-Bold', sans-serif;
   --font-weight-bold:     bold;
 
-  --h1-font-size:         42px;
-  --h2-font-size:         32px;
-  --h3-font-size:         24px;
-  --p-font-size:          18px;
-  --base-font-size:       16px;
-  --menu-font-size:       14px;
+  --h1-font-size:         30px;
+  --h2-font-size:         20px;
+  --h3-font-size:         16px;
+  --p-font-size:          14px;
+  --base-font-size:       12px;
+  --menu-font-size:       9px;
 
   --border-radius-large:  100px;
   --border-radius-small:  5px;
