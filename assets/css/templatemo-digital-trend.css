@@ -52,8 +52,8 @@
 }
 
 body {
-  /*background-image: linear-gradient(#212529,#0c8195);*/
-  background: linear-gradient(50deg,#0c8195 60%, #212529 60%);
+  background-image: linear-gradient(#212529,#0c8195);
+  /*background: linear-gradient(50deg,#0c8195 60%, #212529 60%);*/
   font-family: var(--base-font-family);
 }
 
